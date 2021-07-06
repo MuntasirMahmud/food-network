@@ -62,3 +62,10 @@ section{
 .human{
     margin-left: 5%;
 }
+.last{
+    width: 70%;
+    padding: 2%;
+}
+.last img{
+    width: 20%;
+}
