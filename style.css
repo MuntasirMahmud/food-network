@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0%;
+  
 }
 h1{
     font-size: 50px;
@@ -8,16 +8,16 @@ h1{
 h2{
     font-size: 40px;
 }
-.big-boss{
+#big-boss{
     color: orangered;
 }
 
-.land{
+#land{
     color: royalblue;
 }
 section{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 .backbone{
     width: 50%;
@@ -49,13 +49,13 @@ section{
     width: 60%;
     padding: 4%;
 }
-.world{
+#world{
     color: indigo;
 }
-.hill{
+#hill{
     color: crimson;
 }
-.east{
+#east{
     color: orangered;
 }
 
@@ -81,6 +81,17 @@ section{
 .old-man{
     text-align: center;
 }
-.blink{
-    
+.person{
+   background: black;
+   color: white;
+}
+#new-color{
+    color: yellow;
+}
+.low{
+    text-decoration: none;
+    color: lightblue;
+}
+#short{
+    text-align: center;
 }
