@@ -31,7 +31,7 @@ section{
     background-color: orangered;
     background-image: linear-gradient(red,yellow);
     padding: 10px 40px;
-    color: white;
+    color: rgb(124, 101, 101);
     font-weight: 600;
     border-radius: 20px;
 }
@@ -59,13 +59,28 @@ section{
     color: orangered;
 }
 
+.last{
+    width: 75%;
+    padding: 4%;
+    margin-top: 100px;
+    margin-left: 35px;
+    margin-right: 45px;
+    box-shadow: 10px 10px 20px grey;
+    border-radius: 30px;
+}
+.last img{
+    width: 60%;
+}
+.blog{
+    width: 140%;
+    margin-top: 18%;
+}
 .human{
     margin-left: 5%;
 }
-.last{
-    width: 70%;
-    padding: 2%;
+.old-man{
+    text-align: center;
 }
-.last img{
-    width: 20%;
+.blink{
+    
 }
