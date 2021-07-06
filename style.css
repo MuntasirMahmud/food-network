@@ -11,11 +11,13 @@ h2{
 .big-boss{
     color: orangered;
 }
+
 .land{
-    color: indigo ;
+    color: royalblue;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .backbone{
     width: 50%;
@@ -32,4 +34,27 @@ section{
     color: white;
     font-weight: 600;
     border-radius: 20px;
+}
+.Nation{
+    background-image: url(images/shapes/heaven.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.my-country{
+    background-image: url(images/shapes/art.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.know{
+    width: 60%;
+    padding: 4%;
+}
+.world{
+    color: indigo;
+}
+.hill{
+    color: crimson;
+}
+.east{
+    color: orangered;
 }
